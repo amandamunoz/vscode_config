@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {},
+    "window.zoomLevel": 0,
+    "files.insertFinalNewline": true,
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 18,
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "none",
+    "terminal.external.osxExec": "iTerm.app",
+    "elm.formatOnSave": true,
+    "terminal.integrated.fontSize": 16
+}
